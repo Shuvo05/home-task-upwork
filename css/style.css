@@ -49,6 +49,7 @@ a:hover {
 }
 
 
+
 /* scroll */
 #topcontrol {
 	position: fixed;
@@ -128,16 +129,17 @@ header {
     padding: 5px 0;
 }
 .cat-drop-menu a {
-	color: #37a000;
 	display: block;
 	width: 100%;
 	padding: 5px 15px;
+	color: black;
 }
 .search{
 	color: #37a000;
 }
 .cat-drop-menu a:hover {
 	background-color: #eeeeee47;
+	color: #37a000;
 }
 .header-wrapper .right-content .navbar-nav {
 	display: flex;
